@@ -25,6 +25,7 @@ Bu projede yer alan bazı özellikler:
 
 ---
 
+![Ekran görüntüsü 2025-01-28 195044](https://github.com/user-attachments/assets/7f8d6773-2aaf-4de1-a22d-4b523995038c)
 
 
 
